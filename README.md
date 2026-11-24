@@ -1,2 +1,2 @@
-# keranz_solski_oglasnik-
+# keranz_solski_oglasnik
 šolski oglasnik - skupni projekt
