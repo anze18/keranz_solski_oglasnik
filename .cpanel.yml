@@ -1,4 +1,4 @@
     deployment:
     tasks:
-     - export DEPLOYPATH=/home/keranz/public_html/keranz_šolski_oglasnik
+     - export DEPLOYPATH=/home/keranz/public_html/keranz_solski_oglasnik
      - /bin/cp -R * $DEPLOYPATHa
